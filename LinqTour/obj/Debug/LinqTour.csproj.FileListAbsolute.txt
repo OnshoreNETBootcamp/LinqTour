@@ -1,0 +1,7 @@
+C:\Users\Andrew\source\repos\LinqTour\LinqTour\bin\Debug\LinqTour.exe.config
+C:\Users\Andrew\source\repos\LinqTour\LinqTour\bin\Debug\LinqTour.exe
+C:\Users\Andrew\source\repos\LinqTour\LinqTour\bin\Debug\LinqTour.pdb
+C:\Users\Andrew\source\repos\LinqTour\LinqTour\obj\Debug\LinqTour.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\source\repos\LinqTour\LinqTour\obj\Debug\LinqTour.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\LinqTour\LinqTour\obj\Debug\LinqTour.exe
+C:\Users\Andrew\source\repos\LinqTour\LinqTour\obj\Debug\LinqTour.pdb
